@@ -1,0 +1,5 @@
+IMportant Points to be covered
+
+1.Relational Algebra
+2.Relational Caluculus
+3.Sql
